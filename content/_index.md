@@ -5,4 +5,4 @@ description: "Starting place"
 
 ## Hi there
 
-![img/logo.png](img/logo.png)
+still testing the sit and it's functions
